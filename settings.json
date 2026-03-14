@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "CruelBan.aternos.me",
+    "port": 29336,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
